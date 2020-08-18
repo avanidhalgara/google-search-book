@@ -31,10 +31,10 @@ Connect to a MongoDB database named googlebooks using the mongoose npm package.
 - MongoDB
 - Heroku
 
-# [Link for Heroku Deployment]
+ [Link for Heroku Deployment]
 (https://google-search-book1.herokuapp.com/saved)
 
 
-#Screenshot
+# Screenshot
 ![image](https://user-images.githubusercontent.com/65205190/90460969-b8ffaa00-e0ca-11ea-84bc-d1c8fe0623fa.png)
 
