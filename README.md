@@ -13,9 +13,9 @@ Connect to a MongoDB database named googlebooks using the mongoose npm package.
 
 - Books should have each of the following fields:
 
-  - title - Title of the book from the Google Books API
+  a title - Title of the book from the Google Books API
 
-   - authors - The books's author(s) as returned from the Google Books API
+   b authors - The books's author(s) as returned from the Google Books API
 
    - description - The book's description as returned from the Google Books API
 
