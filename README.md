@@ -3,10 +3,10 @@
 ## Overview
 React-based Google Books Search app. This SPA (Single Page Application) uses [react-router-dom]to navigate, hide and show your React components without changing the route within Express. Using helper/util functions and React lifecycle methods to query and display books based on user searches.This is a full MERN stack application allows users to save books to a database to refer to at a later date. Built with Node, Express and MongoDB, and React-Toastify for custom alerts. 
 
-# Required npm packages
+## Required npm packages
 mongoose, axios, react-router-dom, react-toastify
 
-# Database
+## Database
 Connect to a MongoDB database named googlebooks using the mongoose npm package.
 
 - Using mongoose, create a Book schema.
@@ -23,7 +23,7 @@ Connect to a MongoDB database named googlebooks using the mongoose npm package.
 
   - link - The Book's information link as returned from the Google Books API
   
-  # Technologies Implemented
+  ## Technologies Implemented
 - Bootstrap
 - Express
 - Node.js
@@ -35,6 +35,6 @@ Connect to a MongoDB database named googlebooks using the mongoose npm package.
 
 
 
-# Screenshot
+## Screenshot
 ![image](https://user-images.githubusercontent.com/65205190/90460969-b8ffaa00-e0ca-11ea-84bc-d1c8fe0623fa.png)
 
