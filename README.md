@@ -26,7 +26,7 @@ Connect to a MongoDB database named googlebooks using the mongoose npm package.
 
   - link - The Book's information link as returned from the Google Books API
   
-  ## Technologies Implemented
+  ## Technologies Implemented:
 - Bootstrap
 - Express
 - Node.js
